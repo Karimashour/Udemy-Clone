@@ -18,7 +18,7 @@ https://656a07fadb89ad0d9b415f84--celadon-caramel-f38369.netlify.app/
 # features
 
 - Udemy clone E-commerce App with an impressive shopping cart UI using React JS.<br>
-- user can navigate the different pages to see the courses. <br>
+- user can navigate the different pages to see the courses in the categories like web development or data science and so on. <br>
 - There are two fixed components in all content of website [navbar and sidebar] <br>
 - there are four pages <br>
 - home page<br>
