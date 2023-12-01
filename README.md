@@ -3,7 +3,7 @@
 https://656a07fadb89ad0d9b415f84--celadon-caramel-f38369.netlify.app/
 
 
-<img src="./image.PNG">
+<img src="./image.png">
 
 # tools :
 
