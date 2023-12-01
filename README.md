@@ -1,8 +1,9 @@
-# Employee Management Software Live preview :
+# Udemy Clone - E-Commerce App Link :
 
-https://zealous-rhythm.surge.sh/
+https://656a07fadb89ad0d9b415f84--celadon-caramel-f38369.netlify.app/
 
-<img src="./Capture.PNG">
+
+<img src="./image.PNG">
 
 # tools :
 
