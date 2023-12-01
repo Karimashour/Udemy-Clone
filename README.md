@@ -1,6 +1,6 @@
 # Udemy Clone - E-Commerce App Link :
 
-https://656a07fadb89ad0d9b415f84--celadon-caramel-f38369.netlify.app/
+https://656a112fcd95ea1292633e82--incandescent-khapse-9ffb21.netlify.app/
 
 
 <img src="./image.png">
